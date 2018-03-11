@@ -1,0 +1,25 @@
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.exe.config
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.exe
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.pdb
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.Form1.resources
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.Properties.Resources.resources
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.csproj.GenerateResource.Cache
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.exe
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.pdb
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.Design.dll
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.dll
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.Fonts.dll
+E:\FPT\Semester 5\C#\GroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.csprojResolveAssemblyReference.cache
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.exe.config
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.exe
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.pdb
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.exe
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\StudentStatisticalManager.pdb
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.Design.dll
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.dll
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\bin\Debug\MetroFramework.Fonts.dll
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.csprojResolveAssemblyReference.cache
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.Form1.resources
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.Properties.Resources.resources
+E:\C#-code\CsharpGroupAssignment\StudentStatisticalManager\StudentStatisticalManager\obj\Debug\StudentStatisticalManager.csproj.GenerateResource.Cache
