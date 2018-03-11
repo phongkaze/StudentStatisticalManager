@@ -24,5 +24,31 @@ namespace StudentStatisticalManager.BLL
             }
             return null;
         }
+        public DataTable GetTENMH(string maMh)
+        {
+            try
+            {
+                SubjectData dao = new SubjectData();
+                return dao.GetTENMH(maMh);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+            }
+            return null;
+        }
+        public DataTable GetSOTIET(string maMh)
+        {
+            try
+            {
+                SubjectData dao = new SubjectData();
+                return dao.GetSOTIET(maMh);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+            }
+            return null;
+        }
     }
 }
