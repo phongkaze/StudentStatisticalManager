@@ -42,18 +42,32 @@ namespace StudentStatisticalManager
             try
             {
                 SubjectBLL subjectBll = new SubjectBLL();
-                DataSet ds = new DataSet();
                 DataTable dt = subjectBll.GetAllCombo();
-               
-                foreach(DataRow row in dt.Rows)
+                foreach (DataRow row in dt.Rows)
                 {
                     this.cbMaMH.Items.Add(row.ItemArray[0]);
                 }
-                
-            }
-            catch
-            {
 
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+
+        private void cbMaMH_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string mamh = this.cbMaMH.SelectedItem.ToString();
+            SubjectBLL subjectBll = new SubjectBLL();
+            DataTable dt1 = subjectBll.GetTENMH(mamh);
+            DataTable dt2 = subjectBll.GetSOTIET(mamh);
+            DataRow row1 = dt1.Rows[0];
+            DataRow row2 = dt2.Rows[0];
+            if (row1 != null && row2 != null)
+            {
+                this.txtTenMh.Text = (string)row1.ItemArray[0];
+                this.txtSotiet.Text = row2.ItemArray[0].ToString();
             }
         }
     }
